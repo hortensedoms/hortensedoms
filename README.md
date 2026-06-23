@@ -7,7 +7,9 @@ My research focuses on **joint modelling of longitudinal outcomes and time-to-ev
 ## 🎓 PhD Thesis
 
 **Joint Modelling of Complex Longitudinal Outcomes and Time-to-Event Data**
-*With a Focus on Quality of Life Outcomes in Cancer Clinical Trials*
+*With a Focus on Quality of Life Outcomes in Cancer Clinical Trials*  
+
+Supervisors: Catherine Legrand and Philippe Lambert
 
 ---
 
